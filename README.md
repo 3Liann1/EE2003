@@ -7,4 +7,6 @@ INC, ADD, and AND
 
 2nd Assignment is Designing a 16-bit Kogge-Stone prefix adder module in Verilog
 
-As a part of 3rd Assignment I ploted the Miss Rate for any LRU and SHIP replacement policies and 4-way associativity for L3 while varying the number ofcores (1, 2, 4, 8).
+As a part of 3rd Assignment I ploted the Miss Rate for any LRU and SHIP replacement policies and 4-way associativity for L3 while varying the number ofcores (1, 2, 4, 8) using CHampsim
+
+As a part of 4th Assignment I had to implement complex multiplication program using the base RISCV 32I instructions and load it into the Web RISCV simulator, set up the configurations and interpret the results.
