@@ -1,6 +1,6 @@
 # EE2003
 Computer Organisation Projects
-All the 4 assignments that I did as a part of Computer Organisation Course Offered by Proff TG Venkatesh are here.
+All the 4 assignments' pdf that I did as a part of Computer Organisation Course Offered by Prof. TG Venkatesh are here.
 1st Assignment is based on the mano simulator, The Mano simulator operates as a single-state machine. It loads input data from
 memory into the Accumulator and performs only arithmetic and logical operations,
 INC, ADD, and AND
